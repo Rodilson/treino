@@ -1,0 +1,8 @@
+{
+  "name": "Marelli",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "fb14605a"
+}
